@@ -1,0 +1,2849 @@
+[
+  {
+    "id": 0,
+    "code": "H200",
+    "category": "Unstable Explosive",
+    "statement": "(Obsolete) Unstable explosive.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Danger",
+    "prevention": [
+      "P201",
+      "P202",
+      "P281"
+    ],
+    "response": [
+      "P372",
+      "P373",
+      "P380"
+    ],
+    "storage": "P401",
+    "disposal": "P501"
+  },
+  {
+    "id": 1,
+    "code": "H201",
+    "category": null,
+    "statement": "(Obsolete) Explosive; mass explosion hazard.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P230",
+      "P240",
+      "P250",
+      "P280"
+    ],
+    "response": [
+      "P370+P380",
+      "P372",
+      "P373"
+    ],
+    "storage": "P401",
+    "disposal": "P501"
+  },
+  {
+    "id": 2,
+    "code": "H202",
+    "category": null,
+    "statement": "(Obsolete) Explosive; severe projection hazard.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P230",
+      "P240",
+      "P250",
+      "P280"
+    ],
+    "response": [
+      "P370+P380",
+      "P372",
+      "P373"
+    ],
+    "storage": "P401",
+    "disposal": "P501"
+  },
+  {
+    "id": 3,
+    "code": "H203",
+    "category": null,
+    "statement": "(Obsolete) Explosive; fire, blast or projection hazard.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P230",
+      "P240",
+      "P250",
+      "P280"
+    ],
+    "response": [
+      "P370+P380",
+      "P372",
+      "P373"
+    ],
+    "storage": "P401",
+    "disposal": "P501"
+  },
+  {
+    "id": 4,
+    "code": "H204",
+    "category": [
+      "2B",
+      "2C"
+    ],
+    "statement": "Fire or projection hazard.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": [
+      "GHS01",
+      "GHS07"
+    ],
+    "signalWord": "Warning",
+    "prevention": [
+      "P203",
+      "P210",
+      "P230",
+      "P234",
+      "P236",
+      "P240",
+      "P250",
+      "P280"
+    ],
+    "response": [
+      "P370+P372+P380+P373",
+      "P370+P380+P375"
+    ],
+    "storage": "P401",
+    "disposal": "P503",
+    "variants": [
+      {
+        "category": "2B",
+        "type": "Explosives",
+        "pictogram": "GHS01",
+        "signalword": "Warning",
+        "prevention": [
+          "P203",
+          "P210",
+          "P230",
+          "P234",
+          "P236",
+          "P240",
+          "P250",
+          "P280"
+        ],
+        "response": [
+          "P370+P372+P380+P373"
+        ],
+        "storage": "P401",
+        "disposal": "P503"
+      },
+      {
+        "category": "2C",
+        "type": "Explosives",
+        "pictogram": "GHS07",
+        "signalword": "Warning",
+        "prevention": [
+          "P210",
+          "P230",
+          "P234",
+          "P236",
+          "P240",
+          "P250",
+          "P280"
+        ],
+        "response": [
+          "P370+P380+P375"
+        ],
+        "storage": "P401",
+        "disposal": "P503"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "code": "H205",
+    "category": null,
+    "statement": "(Obsolete) May mass explode in fire.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P230",
+      "P240",
+      "P250",
+      "P280"
+    ],
+    "response": [
+      "P370+P380",
+      "P372",
+      "P373"
+    ],
+    "storage": "P401",
+    "disposal": "P501"
+  },
+  {
+    "id": 6,
+    "code": "H206",
+    "category": 1,
+    "statement": "Fire, blast or projection hazard; increased risk of explosion if desensitizing agent is reduced.",
+    "type": "Desensitized explosives",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P212",
+      "P230",
+      "P233",
+      "P280"
+    ],
+    "response": [
+      "P370+P380+P375"
+    ],
+    "storage": "P401",
+    "disposal": "P501"
+  },
+  {
+    "id": 7,
+    "code": "H207",
+    "category": [
+      2,
+      3
+    ],
+    "statement": "Fire or projection hazard; increased risk of explosion if desensitizing agent is reduced.",
+    "type": "Desensitized explosives",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": [
+      "Danger",
+      "Warning"
+    ],
+    "prevention": [
+      "P210",
+      "P212",
+      "P230",
+      "P233",
+      "P280"
+    ],
+    "response": [
+      "P370+P380+P375"
+    ],
+    "storage": "P401",
+    "disposal": "P501",
+    "variants": [
+      {
+        "category": 2,
+        "type": "Desensitized explosives",
+        "pictogram": "GHS02",
+        "signalword": "Danger",
+        "prevention": [
+          "P210",
+          "P212",
+          "P230",
+          "P233",
+          "P280"
+        ],
+        "response": [
+          "P370+P380+P375"
+        ],
+        "storage": "P401",
+        "disposal": "P501"
+      },
+      {
+        "category": 3,
+        "type": "Desensitized explosives",
+        "pictogram": "GHS02",
+        "signalword": "Warning",
+        "prevention": [
+          "P210",
+          "P212",
+          "P230",
+          "P233",
+          "P280"
+        ],
+        "response": [
+          "P370+P380+P375"
+        ],
+        "storage": "P401",
+        "disposal": "P501"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "code": "H208",
+    "category": 4,
+    "statement": "Fire hazard; increased risk of explosion if desensitizing agent is reduced.",
+    "type": "Desensitized explosives",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Warning",
+    "prevention": [
+      "P210",
+      "P212",
+      "P230",
+      "P233",
+      "P280"
+    ],
+    "response": [
+      "P371+P380+P375"
+    ],
+    "storage": "P401",
+    "disposal": "P501"
+  },
+  {
+    "id": 9,
+    "code": "H209",
+    "category": [
+      1,
+      "2A"
+    ],
+    "statement": "Explosive.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Danger",
+    "prevention": [
+      "P230",
+      "P210",
+      "P240",
+      "P250",
+      "P280",
+      "P203",
+      "P234",
+      "P236"
+    ],
+    "response": [
+      "P370+P372+P380+P373"
+    ],
+    "storage": "P401",
+    "disposal": "P503",
+    "variants": [
+      {
+        "category": 1,
+        "type": "Explosives",
+        "pictogram": "GHS01",
+        "signalword": "Danger",
+        "prevention": [
+          "P230",
+          "P210",
+          "P240",
+          "P250",
+          "P280"
+        ],
+        "response": [
+          "P370+P372+P380+P373"
+        ],
+        "storage": "P401",
+        "disposal": "P503"
+      },
+      {
+        "category": "2A",
+        "type": "Explosives",
+        "pictogram": "GHS01",
+        "signalword": "Danger",
+        "prevention": [
+          "P203",
+          "P210",
+          "P230",
+          "P234",
+          "P236",
+          "P240",
+          "P250",
+          "P280"
+        ],
+        "response": [
+          "P370+P372+P380+P373"
+        ],
+        "storage": "P401",
+        "disposal": "P503"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "code": "H210",
+    "category": 1,
+    "statement": "Very sensitive.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Danger",
+    "prevention": [
+      "P230",
+      "P210",
+      "P240",
+      "P250",
+      "P280"
+    ],
+    "response": [
+      "P370+P372+P380+P373"
+    ],
+    "storage": "P401",
+    "disposal": "P503"
+  },
+  {
+    "id": 11,
+    "code": "H211",
+    "category": 1,
+    "statement": "Maybe sensitive.",
+    "type": "Explosives",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Warning",
+    "prevention": [
+      "P230",
+      "P210",
+      "P240",
+      "P250",
+      "P280"
+    ],
+    "response": [
+      "P370+P372+P380+P373"
+    ],
+    "storage": "P401",
+    "disposal": "P504"
+  },
+  {
+    "id": 12,
+    "code": "H220",
+    "category": [
+      "1A",
+      "Pyrophoric gas",
+      "Chemically unstable gas A",
+      "Chemically unstable gas B"
+    ],
+    "statement": "Extremely flammable gas.",
+    "type": "Flammable gases",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P210",
+      "P222",
+      "P280"
+    ],
+    "response": [
+      "P377",
+      "P381"
+    ],
+    "storage": "P403",
+    "disposal": null
+  },
+  {
+    "id": 13,
+    "code": "H221",
+    "category": [
+      "1B",
+      2
+    ],
+    "statement": "Flammable gas.",
+    "type": "Flammable gases",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": [
+      "Danger",
+      "Warning"
+    ],
+    "prevention": [
+      "P210"
+    ],
+    "response": [
+      "P377",
+      "P381"
+    ],
+    "storage": "P403",
+    "disposal": null,
+    "variants": [
+      {
+        "category": "1B",
+        "type": "Flammable gases",
+        "pictogram": "GHS02",
+        "signalword": "Danger",
+        "prevention": [
+          "P210"
+        ],
+        "response": [
+          "P377",
+          "P381"
+        ],
+        "storage": "P403",
+        "disposal": null
+      },
+      {
+        "category": 2,
+        "type": "Flammable gases",
+        "pictogram": null,
+        "signalword": "Warning",
+        "prevention": [
+          "P210"
+        ],
+        "response": [
+          "P377",
+          "P381"
+        ],
+        "storage": "P403",
+        "disposal": null
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "code": "H222",
+    "category": 1,
+    "statement": "Extremely flammable aerosol.",
+    "type": "Aerosols",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P211",
+      "P251"
+    ],
+    "response": [],
+    "storage": "P410+P412",
+    "disposal": null
+  },
+  {
+    "id": 15,
+    "code": "H223",
+    "category": 2,
+    "statement": "Flammable aerosol.",
+    "type": "Aerosols",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Warning",
+    "prevention": [
+      "P210",
+      "P211",
+      "P251"
+    ],
+    "response": [],
+    "storage": "P410+P412",
+    "disposal": null
+  },
+  {
+    "id": 16,
+    "code": "H224",
+    "category": 1,
+    "statement": "Extremely flammable liquid and vapor.",
+    "type": "Flammable liquids",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P280"
+    ],
+    "response": [
+      "P303+P361+P353",
+      "P370+P378"
+    ],
+    "storage": "P403+P235",
+    "disposal": "P501"
+  },
+  {
+    "id": 17,
+    "code": "H225",
+    "category": 2,
+    "statement": "Highly flammable liquid and vapor.",
+    "type": "Flammable liquids",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P280"
+    ],
+    "response": [
+      "P303+P361+P353",
+      "P370+P378"
+    ],
+    "storage": "P403+P235",
+    "disposal": "P501"
+  },
+  {
+    "id": 18,
+    "code": "H226",
+    "category": 3,
+    "statement": "Flammable liquid and vapor.",
+    "type": "Flammable liquids",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Warning",
+    "prevention": [
+      "P210",
+      "P233",
+      "P240",
+      "P241",
+      "P242",
+      "P243",
+      "P280"
+    ],
+    "response": [
+      "P303+P361+P353",
+      "P370+P378"
+    ],
+    "storage": "P403+P235",
+    "disposal": "P501"
+  },
+  {
+    "id": 19,
+    "code": "H227",
+    "category": 4,
+    "statement": "Combustible liquid.",
+    "type": "Flammable liquids",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Warning",
+    "prevention": [
+      "P210",
+      "P280"
+    ],
+    "response": [
+      "P370+P378"
+    ],
+    "storage": "P403",
+    "disposal": "P501"
+  },
+  {
+    "id": 20,
+    "code": "H228",
+    "category": [
+      1,
+      2
+    ],
+    "statement": "Flammable solid.",
+    "type": "Flammable solids",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Warning",
+    "prevention": [
+      "P210",
+      "P240",
+      "P241",
+      "P280"
+    ],
+    "response": [
+      "P370+P378"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 21,
+    "code": "H229",
+    "category": [
+      1,
+      2,
+      3
+    ],
+    "statement": "Pressurized container: may burst if heated.",
+    "type": "Aerosols",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": [
+      "Danger",
+      "Warning"
+    ],
+    "prevention": [
+      "P210",
+      "P211",
+      "P251"
+    ],
+    "response": [],
+    "storage": "P410+P412",
+    "disposal": null,
+    "variants": [
+      {
+        "category": 1,
+        "type": "Aerosols",
+        "pictogram": "GHS02",
+        "signalword": "Danger",
+        "prevention": [
+          "P210",
+          "P211",
+          "P251"
+        ],
+        "response": [],
+        "storage": "P410+P412",
+        "disposal": null
+      },
+      {
+        "category": 2,
+        "type": "Aerosols",
+        "pictogram": "GHS02",
+        "signalword": "Warning",
+        "prevention": [
+          "P210",
+          "P211",
+          "P251"
+        ],
+        "response": [],
+        "storage": "P410+P412",
+        "disposal": null
+      },
+      {
+        "category": 3,
+        "type": "Aerosols",
+        "pictogram": null,
+        "signalword": "Warning",
+        "prevention": [
+          "P210",
+          "P251"
+        ],
+        "response": [],
+        "storage": "P410+P412",
+        "disposal": null
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "code": "H230",
+    "category": [
+      "1A",
+      "Chemically unstable gas A"
+    ],
+    "statement": "May react explosively even in the absence of air.",
+    "type": "Flammable gases",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P210"
+    ],
+    "response": [
+      "P337",
+      "P381"
+    ],
+    "storage": "P403",
+    "disposal": null
+  },
+  {
+    "id": 23,
+    "code": "H231",
+    "category": [
+      "1A",
+      "Chemically unstable gas B"
+    ],
+    "statement": "May react explosively even in the absence of air at elevated pressure and/or temperature.",
+    "type": "Flammable gases",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P210"
+    ],
+    "response": [
+      "P337",
+      "P381"
+    ],
+    "storage": "P403",
+    "disposal": null
+  },
+  {
+    "id": 24,
+    "code": "H232",
+    "category": [
+      "1A",
+      "Pyrophoric gas"
+    ],
+    "statement": "May ignite spontaneously if exposed to air.",
+    "type": "Flammable gases",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P222",
+      "P280"
+    ],
+    "response": [
+      "P377",
+      "P381"
+    ],
+    "storage": "P403",
+    "disposal": null
+  },
+  {
+    "id": 25,
+    "code": "H240",
+    "category": "Type A",
+    "statement": "Heating may cause an explosion.",
+    "type": "Self-reactive substances and mixtures; Organic peroxides",
+    "level": null,
+    "pictogram": "GHS01",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P234",
+      "P235",
+      "P240",
+      "P280"
+    ],
+    "response": [
+      "P370+P372+P380+P373"
+    ],
+    "storage": [
+      "P403",
+      "P410",
+      "P411",
+      "P420"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 26,
+    "code": "H241",
+    "category": "Type B",
+    "statement": "Heating may cause a fire or explosion.",
+    "type": "Self-reactive substances and mixtures; Organic peroxides",
+    "level": null,
+    "pictogram": [
+      "GHS01",
+      "GHS02"
+    ],
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P234",
+      "P235",
+      "P240",
+      "P280"
+    ],
+    "response": [
+      "P370+P380+P375[+P378]"
+    ],
+    "storage": [
+      "P403",
+      "P410",
+      "P411",
+      "P420"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 27,
+    "code": "H242",
+    "category": [
+      "Type C",
+      "Type D"
+    ],
+    "statement": "Heating may cause a fire.",
+    "type": "Self-reactive substances and mixtures; Organic peroxides",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P234",
+      "P235",
+      "P240",
+      "P280"
+    ],
+    "response": [
+      "P370+P378"
+    ],
+    "storage": [
+      "P403",
+      "P410",
+      "P411",
+      "P420"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 28,
+    "code": "H250",
+    "category": 1,
+    "statement": "Catches fire spontaneously if exposed to air.",
+    "type": [
+      "Pyrophoric liquids",
+      "Pyrophoric solids"
+    ],
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P222",
+      "P231",
+      "P233",
+      "P280"
+    ],
+    "response": [
+      "P302+P334",
+      "P302+P335+P334",
+      "P370+P378"
+    ],
+    "storage": null,
+    "disposal": null,
+    "variants": [
+      {
+        "category": 1,
+        "type": "Pyrophoric liquids",
+        "pictogram": "GHS02",
+        "signalword": "Danger",
+        "prevention": [
+          "P210",
+          "P222",
+          "P231",
+          "P233",
+          "P280"
+        ],
+        "response": [
+          "P302+P334",
+          "P370+P378"
+        ],
+        "storage": null,
+        "disposal": null
+      },
+      {
+        "category": 1,
+        "type": "Pyrophoric solids",
+        "pictogram": "GHS02",
+        "signalword": "Danger",
+        "prevention": [
+          "P210",
+          "P222",
+          "P231",
+          "P233",
+          "P280"
+        ],
+        "response": [
+          "P302+P335+P334",
+          "P370+P378"
+        ],
+        "storage": null,
+        "disposal": null
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "code": "H251",
+    "category": 1,
+    "statement": "Self-heating; may catch fire.",
+    "type": "Self-heating substances and mixtures",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P235",
+      "P280"
+    ],
+    "response": [],
+    "storage": [
+      "P407",
+      "P410",
+      "P413",
+      "P420"
+    ],
+    "disposal": null
+  },
+  {
+    "id": 30,
+    "code": "H252",
+    "category": 2,
+    "statement": "Self-heating in large quantities; may catch fire.",
+    "type": "Self-heating substances and mixtures",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Warning",
+    "prevention": [
+      "P235",
+      "P280"
+    ],
+    "response": [],
+    "storage": [
+      "P407",
+      "P410",
+      "P413",
+      "P420"
+    ],
+    "disposal": null
+  },
+  {
+    "id": 31,
+    "code": "H260",
+    "category": 1,
+    "statement": "In contact with water releases flammable gases which may ignite spontaneously.",
+    "type": "Substances and mixtures which in contact with water emit flammable gases",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": "Danger",
+    "prevention": [
+      "P223",
+      "P231+P232",
+      "P280"
+    ],
+    "response": [
+      "P302+P335+P334",
+      "P370+P378"
+    ],
+    "storage": "P402+P404",
+    "disposal": "P501"
+  },
+  {
+    "id": 32,
+    "code": "H261",
+    "category": [
+      2,
+      3
+    ],
+    "statement": "In contact with water releases flammable gas.",
+    "type": "Substances and mixtures which in contact with water emit flammable gases",
+    "level": null,
+    "pictogram": "GHS02",
+    "signalWord": [
+      "Danger",
+      "Warning"
+    ],
+    "prevention": [
+      "P223",
+      "P231+P232",
+      "P280"
+    ],
+    "response": [
+      "P302+P335+P334",
+      "P370+P378"
+    ],
+    "storage": "P402+P404",
+    "disposal": "P501",
+    "variants": [
+      {
+        "category": 2,
+        "type": "Substances and mixtures which in contact with water emit flammable gases",
+        "pictogram": "GHS02",
+        "signalword": "Danger",
+        "prevention": [
+          "P223",
+          "P231+P232",
+          "P280"
+        ],
+        "response": [
+          "P302+P335+P334",
+          "P370+P378"
+        ],
+        "storage": "P402+P404",
+        "disposal": "P501"
+      },
+      {
+        "category": 3,
+        "type": "Substances and mixtures which in contact with water emit flammable gases",
+        "pictogram": "GHS02",
+        "signalword": "Warning",
+        "prevention": [
+          "P231+P232",
+          "P280"
+        ],
+        "response": [
+          "P370+P378"
+        ],
+        "storage": "P402+P404",
+        "disposal": "P501"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "code": "H270",
+    "category": 1,
+    "statement": "May cause or intensify fire; oxidizer.",
+    "type": "Oxidizing gases",
+    "level": null,
+    "pictogram": "GHS03",
+    "signalWord": "Danger",
+    "prevention": [
+      "P220",
+      "P244"
+    ],
+    "response": [
+      "P370+P376"
+    ],
+    "storage": "P403",
+    "disposal": null
+  },
+  {
+    "id": 34,
+    "code": "H271",
+    "category": 1,
+    "statement": "May cause fire or explosion; strong oxidizer.",
+    "type": "Oxidizing liquids/solids",
+    "level": null,
+    "pictogram": "GHS03",
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P220",
+      "P280",
+      "P283"
+    ],
+    "response": [
+      "P306+P360",
+      "P371+P380+P375",
+      "P370+P378"
+    ],
+    "storage": "P420",
+    "disposal": "P501"
+  },
+  {
+    "id": 35,
+    "code": "H272",
+    "category": [
+      2,
+      3
+    ],
+    "statement": "May intensify fire; oxidizer.",
+    "type": "Oxidizing liquids/solids",
+    "level": null,
+    "pictogram": "GHS03",
+    "signalWord": [
+      "Danger",
+      "Warning"
+    ],
+    "prevention": [
+      "P210",
+      "P220",
+      "P280"
+    ],
+    "response": [
+      "P370+P378"
+    ],
+    "storage": null,
+    "disposal": "P501",
+    "variants": [
+      {
+        "category": 2,
+        "type": "Oxidizing liquids/solids",
+        "pictogram": "GHS03",
+        "signalword": "Danger",
+        "prevention": [
+          "P210",
+          "P220",
+          "P280"
+        ],
+        "response": [
+          "P370+P378"
+        ],
+        "storage": null,
+        "disposal": "P501"
+      },
+      {
+        "category": 3,
+        "type": "Oxidizing liquids/solids",
+        "pictogram": "GHS03",
+        "signalword": "Warning",
+        "prevention": [
+          "P210",
+          "P220",
+          "P280"
+        ],
+        "response": [
+          "P370+P378"
+        ],
+        "storage": null,
+        "disposal": "P501"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "code": "H280",
+    "category": [
+      "Compressed gas",
+      "Liquefied gas",
+      "Dissolved gas"
+    ],
+    "statement": "Contains gas under pressure; may explode if heated.",
+    "type": "Gases under pressure",
+    "level": null,
+    "pictogram": "GHS04",
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [],
+    "storage": "P410+P403",
+    "disposal": null
+  },
+  {
+    "id": 37,
+    "code": "H281",
+    "category": "Refrigerated liquefied gas",
+    "statement": "Contains refrigerated gas; may cause cryogenic burns or injury.",
+    "type": "Gases under pressure",
+    "level": null,
+    "pictogram": "GHS04",
+    "signalWord": "Warning",
+    "prevention": [
+      "P282"
+    ],
+    "response": [
+      "P336+P317"
+    ],
+    "storage": "P403",
+    "disposal": null
+  },
+  {
+    "id": 38,
+    "code": "H282",
+    "category": 1,
+    "statement": "Extremely flammable chemical under pressure: may explode if heated.",
+    "type": "Chemicals under pressure",
+    "level": null,
+    "pictogram": [
+      "GHS02",
+      "GHS04"
+    ],
+    "signalWord": "Danger",
+    "prevention": [
+      "P210",
+      "P211"
+    ],
+    "response": [
+      "P370+P378",
+      "P376",
+      "P381"
+    ],
+    "storage": "P410+P403",
+    "disposal": null
+  },
+  {
+    "id": 39,
+    "code": "H283",
+    "category": 2,
+    "statement": "Flammable chemical under pressure: may explode if heated.",
+    "type": "Chemicals under pressure",
+    "level": null,
+    "pictogram": [
+      "GHS02",
+      "GHS04"
+    ],
+    "signalWord": "Warning",
+    "prevention": [
+      "P210",
+      "P211"
+    ],
+    "response": [
+      "P370+P378",
+      "P376",
+      "P381"
+    ],
+    "storage": "P410+P403",
+    "disposal": null
+  },
+  {
+    "id": 40,
+    "code": "H284",
+    "category": 3,
+    "statement": "Chemical under pressure: may explode if heated.",
+    "type": "Chemicals under pressure",
+    "level": null,
+    "pictogram": "GHS04",
+    "signalWord": "Warning",
+    "prevention": [
+      "P210"
+    ],
+    "response": [
+      "P376"
+    ],
+    "storage": "P410+P403",
+    "disposal": null
+  },
+  {
+    "id": 41,
+    "code": "H290",
+    "category": 1,
+    "statement": "May be corrosive to metals.",
+    "type": "Corrosive to metals",
+    "level": null,
+    "pictogram": "GHS05",
+    "signalWord": "Warning",
+    "prevention": [
+      "P234"
+    ],
+    "response": [
+      "P390"
+    ],
+    "storage": "P406",
+    "disposal": null
+  },
+  {
+    "id": 42,
+    "code": "H300",
+    "category": [
+      1,
+      2
+    ],
+    "statement": "Fatal if swallowed.",
+    "type": "Acute toxicity, oral",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264",
+      "P270"
+    ],
+    "response": [
+      "P301+P316",
+      "P321",
+      "P330"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 43,
+    "code": "H301",
+    "category": 3,
+    "statement": "Toxic if swallowed.",
+    "type": "Acute toxicity, oral",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264",
+      "P270"
+    ],
+    "response": [
+      "P301+P316",
+      "P321",
+      "P330"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 44,
+    "code": "H302",
+    "category": 4,
+    "statement": "Harmful if swallowed.",
+    "type": "Acute toxicity, oral",
+    "level": "Acute",
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P264",
+      "P270"
+    ],
+    "response": [
+      "P301+P317",
+      "P330"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 45,
+    "code": "H303",
+    "category": 5,
+    "statement": "May be harmful if swallowed.",
+    "type": "Acute toxicity, oral",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P301+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 46,
+    "code": "H304",
+    "category": 1,
+    "statement": "May be fatal if swallowed and enters airways.",
+    "type": "Aspiration hazard",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [],
+    "response": [
+      "P301+P316",
+      "P331"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 47,
+    "code": "H305",
+    "category": 2,
+    "statement": "May be harmful if swallowed and enters airways.",
+    "type": "Aspiration hazard",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P301+P316",
+      "P331"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 48,
+    "code": "H310",
+    "category": [
+      1,
+      2
+    ],
+    "statement": "Fatal in contact with skin.",
+    "type": "Acute toxicity, dermal",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P262",
+      "P264",
+      "P270",
+      "P280"
+    ],
+    "response": [
+      "P302+P352",
+      "P316",
+      "P321",
+      "P361+P364"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 49,
+    "code": "H311",
+    "category": 3,
+    "statement": "Toxic in contact with skin.",
+    "type": "Acute toxicity, dermal",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P262",
+      "P264",
+      "P270",
+      "P280"
+    ],
+    "response": [
+      "P302+P352",
+      "P316",
+      "P321",
+      "P361+P364"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 50,
+    "code": "H312",
+    "category": 4,
+    "statement": "Harmful in contact with skin.",
+    "type": "Acute toxicity, dermal",
+    "level": "Acute",
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P280"
+    ],
+    "response": [
+      "P302+P352",
+      "P317",
+      "P321",
+      "P362+P364"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 51,
+    "code": "H313",
+    "category": 5,
+    "statement": "May be harmful in contact with skin.",
+    "type": "Acute toxicity, dermal",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P302+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 52,
+    "code": "H314",
+    "category": [
+      1,
+      "1A",
+      "1B",
+      "1C"
+    ],
+    "statement": "Causes severe skin burns and eye damage.",
+    "type": "Skin corrosion/irritation",
+    "level": null,
+    "pictogram": "GHS05",
+    "signalWord": "Danger",
+    "prevention": [
+      "P260",
+      "P264",
+      "P280"
+    ],
+    "response": [
+      "P301+P330+P331",
+      "P302+P361+P354",
+      "P363",
+      "P304+P340",
+      "P316",
+      "P321",
+      "P305+P354+P338"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 53,
+    "code": "H315",
+    "category": 2,
+    "statement": "Causes skin irritation.",
+    "type": "Skin corrosion/irritation",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P264",
+      "P280"
+    ],
+    "response": [
+      "P302+P352",
+      "P321",
+      "P332+P317",
+      "P362+P364"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 54,
+    "code": "H316",
+    "category": 3,
+    "statement": "Causes mild skin irritation.",
+    "type": "Skin corrosion/irritation",
+    "level": null,
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P332+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 55,
+    "code": "H317",
+    "category": [
+      1,
+      "1A",
+      "1B"
+    ],
+    "statement": "May cause an allergic skin reaction.",
+    "type": "Sensitization, skin",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P261",
+      "P272",
+      "P280"
+    ],
+    "response": [
+      "P302+P352",
+      "P333+P317",
+      "P321",
+      "P362+P364"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 56,
+    "code": "H318",
+    "category": 1,
+    "statement": "Causes serious eye damage.",
+    "type": "Serious eye damage/eye irritation",
+    "level": null,
+    "pictogram": "GHS05",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264+P265",
+      "P280"
+    ],
+    "response": [
+      "P305+P354+P338",
+      "P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 57,
+    "code": "H319",
+    "category": "2A",
+    "statement": "Causes serious eye irritation.",
+    "type": "Serious eye damage/eye irritation",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P264+P265",
+      "P280"
+    ],
+    "response": [
+      "P305+P351+P338",
+      "P337+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 58,
+    "code": "H320",
+    "category": "2B",
+    "statement": "Causes eye irritation.",
+    "type": "Serious eye damage/eye irritation",
+    "level": null,
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [
+      "P264+P265"
+    ],
+    "response": [
+      "P305+P351+P338",
+      "P337+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 59,
+    "code": "H330",
+    "category": [
+      1,
+      2
+    ],
+    "statement": "Fatal if inhaled.",
+    "type": "Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P260",
+      "P271",
+      "P284"
+    ],
+    "response": [
+      "P304+P340",
+      "P316",
+      "P320"
+    ],
+    "storage": [
+      "P403+P233",
+      "P405"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 60,
+    "code": "H331",
+    "category": 3,
+    "statement": "Toxic if inhaled.",
+    "type": "Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P304+P340",
+      "P316",
+      "P321"
+    ],
+    "storage": [
+      "P403+P233",
+      "P405"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 61,
+    "code": "H332",
+    "category": 4,
+    "statement": "Harmful if inhaled.",
+    "type": "Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P304+P340",
+      "P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 62,
+    "code": "H333",
+    "category": 5,
+    "statement": "May be harmful if inhaled.",
+    "type": "Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P304+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 63,
+    "code": "H334",
+    "category": [
+      1,
+      "1A",
+      "1B"
+    ],
+    "statement": "May cause allergy or asthma symptoms or breathing difficulties if inhaled.",
+    "type": "Sensitization, respiratory",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P233",
+      "P260",
+      "P271",
+      "P284"
+    ],
+    "response": [
+      "P304+P340",
+      "P342+P316"
+    ],
+    "storage": "P403",
+    "disposal": "P501"
+  },
+  {
+    "id": 64,
+    "code": "H335",
+    "category": 3,
+    "statement": "May cause respiratory irritation.",
+    "type": "Specific target organ toxicity, single exposure; Respiratory tract irritation",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P304+P340",
+      "P319"
+    ],
+    "storage": [
+      "P403+P233",
+      "P405"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 65,
+    "code": "H336",
+    "category": 3,
+    "statement": "May cause drowsiness or dizziness.",
+    "type": "Specific target organ toxicity, single exposure; Narcotic effects",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P304+P340",
+      "P319"
+    ],
+    "storage": [
+      "P403+P233",
+      "P405"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 66,
+    "code": "H340",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May cause genetic defects.",
+    "type": "Germ cell mutagenicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 67,
+    "code": "H341",
+    "category": 2,
+    "statement": "Suspected of causing genetic defects.",
+    "type": "Germ cell mutagenicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 68,
+    "code": "H350",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May cause cancer.",
+    "type": "Carcinogenicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 69,
+    "code": "H350i",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May cause cancer by inhalation.",
+    "type": "Carcinogenicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 70,
+    "code": "H351",
+    "category": 2,
+    "statement": "Suspected of causing cancer.",
+    "type": "Carcinogenicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 71,
+    "code": "H360",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May damage fertility or the unborn child.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 72,
+    "code": "H360F",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May damage fertility.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 73,
+    "code": "H360D",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May damage the unborn child.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 74,
+    "code": "H360FD",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May damage fertility; May damage the unborn child.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 75,
+    "code": "H360Fd",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May damage fertility; Suspected of damaging the unborn child.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 76,
+    "code": "H360Df",
+    "category": [
+      "1A",
+      "1B"
+    ],
+    "statement": "May damage the unborn child; Suspected of damaging fertility.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 77,
+    "code": "H361",
+    "category": 2,
+    "statement": "Suspected of damaging fertility or the unborn child.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 78,
+    "code": "H361f",
+    "category": 2,
+    "statement": "Suspected of damaging fertility.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 79,
+    "code": "H361d",
+    "category": 2,
+    "statement": "Suspected of damaging the unborn child.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 80,
+    "code": "H361fd",
+    "category": 2,
+    "statement": "Suspected of damaging fertility; Suspected of damaging the unborn child.",
+    "type": "Reproductive toxicity",
+    "level": null,
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [
+      "P203",
+      "P280"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 81,
+    "code": "H362",
+    "category": "Additional category",
+    "statement": "May cause harm to breast-fed children.",
+    "type": "Reproductive toxicity, effects on or via lactation",
+    "level": null,
+    "pictogram": null,
+    "signalWord": null,
+    "prevention": [
+      "P203",
+      "P260",
+      "P263",
+      "P264",
+      "P270"
+    ],
+    "response": [
+      "P318"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 82,
+    "code": "H370",
+    "category": 1,
+    "statement": "Causes damage to organs.",
+    "type": "Specific target organ toxicity, single exposure",
+    "level": "Acute",
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P260",
+      "P264",
+      "P270"
+    ],
+    "response": [
+      "P308+P316",
+      "P321"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 83,
+    "code": "H371",
+    "category": 2,
+    "statement": "May cause damage to organs.",
+    "type": "Specific target organ toxicity, single exposure",
+    "level": "Acute",
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [
+      "P260",
+      "P264",
+      "P270"
+    ],
+    "response": [
+      "P308+P316"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 84,
+    "code": "H372",
+    "category": 1,
+    "statement": "Causes damage to organs through prolonged or repeated exposure.",
+    "type": "Specific target organ toxicity, repeated exposure",
+    "level": "Chronic",
+    "pictogram": "GHS08",
+    "signalWord": "Danger",
+    "prevention": [
+      "P260",
+      "P264",
+      "P270"
+    ],
+    "response": [
+      "P319"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 85,
+    "code": "H373",
+    "category": 2,
+    "statement": "May cause damage to organs through prolonged or repeated exposure.",
+    "type": "Specific target organ toxicity, repeated exposure",
+    "level": "Chronic",
+    "pictogram": "GHS08",
+    "signalWord": "Warning",
+    "prevention": [
+      "P260"
+    ],
+    "response": [
+      "P319"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 86,
+    "code": "H400",
+    "category": 1,
+    "statement": "Very toxic to aquatic life.",
+    "type": "Hazardous to the aquatic environment, acute hazard",
+    "level": "Acute",
+    "pictogram": "GHS09",
+    "signalWord": "Warning",
+    "prevention": [
+      "P273"
+    ],
+    "response": [
+      "P391"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 87,
+    "code": "H401",
+    "category": 2,
+    "statement": "Toxic to aquatic life.",
+    "type": "Hazardous to the aquatic environment, acute hazard",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": null,
+    "prevention": [
+      "P273"
+    ],
+    "response": [],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 88,
+    "code": "H402",
+    "category": 3,
+    "statement": "Harmful to aquatic life.",
+    "type": "Hazardous to the aquatic environment, acute hazard",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": null,
+    "prevention": [
+      "P273"
+    ],
+    "response": [],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 89,
+    "code": "H410",
+    "category": 1,
+    "statement": "Very toxic to aquatic life with long lasting effects.",
+    "type": "Hazardous to the aquatic environment, long-term hazard",
+    "level": "Chronic",
+    "pictogram": "GHS09",
+    "signalWord": "Warning",
+    "prevention": [
+      "P273"
+    ],
+    "response": [
+      "P391"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 90,
+    "code": "H411",
+    "category": 2,
+    "statement": "Toxic to aquatic life with long lasting effects.",
+    "type": "Hazardous to the aquatic environment, long-term hazard",
+    "level": "Chronic",
+    "pictogram": "GHS09",
+    "signalWord": null,
+    "prevention": [
+      "P273"
+    ],
+    "response": [
+      "P391"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 91,
+    "code": "H412",
+    "category": 3,
+    "statement": "Harmful to aquatic life with long lasting effects.",
+    "type": "Hazardous to the aquatic environment, long-term hazard",
+    "level": "Chronic",
+    "pictogram": null,
+    "signalWord": null,
+    "prevention": [
+      "P273"
+    ],
+    "response": [],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 92,
+    "code": "H413",
+    "category": 4,
+    "statement": "May cause long lasting harmful effects to aquatic life.",
+    "type": "Hazardous to the aquatic environment, long-term hazard",
+    "level": "Chronic",
+    "pictogram": null,
+    "signalWord": null,
+    "prevention": [
+      "P273"
+    ],
+    "response": [],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 93,
+    "code": "H420",
+    "category": 1,
+    "statement": "Harms public health and the environment by destroying ozone in the upper atmosphere.",
+    "type": "Hazardous to the ozone layer",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [],
+    "storage": null,
+    "disposal": "P502"
+  },
+  {
+    "id": 94,
+    "code": "H421",
+    "category": 1,
+    "statement": "Harms public health and the environment by contributing to global warming.",
+    "type": "Hazardous by contributing to global warming",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [],
+    "storage": null,
+    "disposal": "P502"
+  },
+  {
+    "id": 95,
+    "code": "H300+H310",
+    "category": [
+      1,
+      2
+    ],
+    "statement": "Fatal if swallowed or in contact with skin.",
+    "type": "Acute toxicity, oral; Acute toxicity, dermal",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264",
+      "P270",
+      "P262",
+      "P280"
+    ],
+    "response": [
+      "P301+P316",
+      "P321",
+      "P330",
+      "P302+P352",
+      "P316",
+      "P361+P364"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 96,
+    "code": "H300+H330",
+    "category": [
+      1,
+      2
+    ],
+    "statement": "Fatal if swallowed or if inhaled.",
+    "type": "Acute toxicity, oral; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264",
+      "P270",
+      "P260",
+      "P271",
+      "P284"
+    ],
+    "response": [
+      "P301+P316",
+      "P321",
+      "P330",
+      "P304+P340",
+      "P316",
+      "P320"
+    ],
+    "storage": [
+      "P405",
+      "P403+P233"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 97,
+    "code": "H310+H330",
+    "category": [
+      1,
+      2
+    ],
+    "statement": "Fatal in contact with skin or if inhaled.",
+    "type": "Acute toxicity, dermal; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P262",
+      "P264",
+      "P270",
+      "P280",
+      "P260",
+      "P271",
+      "P284"
+    ],
+    "response": [
+      "P302+P352",
+      "P316",
+      "P321",
+      "P361+P364",
+      "P304+P340",
+      "P320"
+    ],
+    "storage": [
+      "P405",
+      "P403+P233"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 98,
+    "code": "H300+H310+H330",
+    "category": [
+      1,
+      2
+    ],
+    "statement": "Fatal if swallowed, in contact with skin or if inhaled.",
+    "type": "Acute toxicity, oral; Acute toxicity, dermal; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264",
+      "P270",
+      "P262",
+      "P280",
+      "P260",
+      "P271",
+      "P284"
+    ],
+    "response": [
+      "P301+P316",
+      "P321",
+      "P330",
+      "P302+P352",
+      "P316",
+      "P361+P364",
+      "P304+P340",
+      "P320"
+    ],
+    "storage": [
+      "P405",
+      "P403+P233"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 99,
+    "code": "H301+H311",
+    "category": 3,
+    "statement": "Toxic if swallowed or in contact with skin.",
+    "type": "Acute toxicity, oral; Acute toxicity, dermal",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264",
+      "P270",
+      "P262",
+      "P280"
+    ],
+    "response": [
+      "P301+P316",
+      "P321",
+      "P330",
+      "P302+P352",
+      "P316",
+      "P361+P364"
+    ],
+    "storage": "P405",
+    "disposal": "P501"
+  },
+  {
+    "id": 100,
+    "code": "H301+H331",
+    "category": 3,
+    "statement": "Toxic if swallowed or if inhaled.",
+    "type": "Acute toxicity, oral; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264",
+      "P270",
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P301+P316",
+      "P321",
+      "P330",
+      "P304+P340",
+      "P316"
+    ],
+    "storage": [
+      "P405",
+      "P403+P233"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 101,
+    "code": "H311+H331",
+    "category": 3,
+    "statement": "Toxic in contact with skin or if inhaled.",
+    "type": "Acute toxicity, dermal; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P262",
+      "P264",
+      "P270",
+      "P280",
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P302+P352",
+      "P316",
+      "P321",
+      "P361+P364",
+      "P304+P340"
+    ],
+    "storage": [
+      "P405",
+      "P403+P233"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 102,
+    "code": "H301+H311+H331",
+    "category": 3,
+    "statement": "Toxic if swallowed, in contact with skin or if inhaled.",
+    "type": "Acute toxicity, oral; Acute toxicity, dermal; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS06",
+    "signalWord": "Danger",
+    "prevention": [
+      "P264",
+      "P270",
+      "P262",
+      "P280",
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P301+P316",
+      "P321",
+      "P330",
+      "P302+P352",
+      "P316",
+      "P361+P364",
+      "P304+P340"
+    ],
+    "storage": [
+      "P405",
+      "P403+P233"
+    ],
+    "disposal": "P501"
+  },
+  {
+    "id": 103,
+    "code": "H302+H312",
+    "category": 4,
+    "statement": "Harmful if swallowed or in contact with skin.",
+    "type": "Acute toxicity, oral; Acute toxicity, dermal",
+    "level": "Acute",
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P264",
+      "P270",
+      "P280"
+    ],
+    "response": [
+      "P301+P317",
+      "P330",
+      "P302+P352",
+      "P317",
+      "P321",
+      "P362+P364"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 104,
+    "code": "H302+H332",
+    "category": 4,
+    "statement": "Harmful if swallowed or if inhaled.",
+    "type": "Acute toxicity, oral; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P264",
+      "P270",
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P301+P317",
+      "P330",
+      "P304+P340",
+      "P317"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 105,
+    "code": "H312+H332",
+    "category": 4,
+    "statement": "Harmful in contact with skin or if inhaled.",
+    "type": "Acute toxicity, dermal; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P280",
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P302+P352",
+      "P317",
+      "P321",
+      "P362+P364",
+      "P304+P340"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 106,
+    "code": "H302+H312+H332",
+    "category": 4,
+    "statement": "Harmful if swallowed, in contact with skin or if inhaled.",
+    "type": "Acute toxicity, oral; Acute toxicity, dermal; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P264",
+      "P270",
+      "P280",
+      "P261",
+      "P271"
+    ],
+    "response": [
+      "P301+P317",
+      "P330",
+      "P302+P352",
+      "P317",
+      "P321",
+      "P362+P364",
+      "P304+P340"
+    ],
+    "storage": null,
+    "disposal": "P501"
+  },
+  {
+    "id": 107,
+    "code": "H303+H313",
+    "category": 5,
+    "statement": "May be harmful if swallowed or in contact with skin.",
+    "type": "Acute toxicity, oral; Acute toxicity, dermal",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P301+P317",
+      "P302+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 108,
+    "code": "H303+H333",
+    "category": 5,
+    "statement": "May be harmful if swallowed or if inhaled.",
+    "type": "Acute toxicity, oral; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P301+P317",
+      "P304+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 109,
+    "code": "H313+H333",
+    "category": 5,
+    "statement": "May be harmful in contact with skin or if inhaled.",
+    "type": "Acute toxicity, dermal; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P302+P317",
+      "P304+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 110,
+    "code": "H303+H313+H333",
+    "category": 5,
+    "statement": "May be harmful if swallowed, in contact with skin or if inhaled.",
+    "type": "Acute toxicity, oral; Acute toxicity, dermal; Acute toxicity, inhalation",
+    "level": "Acute",
+    "pictogram": null,
+    "signalWord": "Warning",
+    "prevention": [],
+    "response": [
+      "P301+P317",
+      "P302+P317",
+      "P304+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 111,
+    "code": "H315+H319",
+    "category": [
+      2,
+      "2A"
+    ],
+    "statement": "Causes skin irritation and serious eye irritation.",
+    "type": "Skin corrosion/irritation; Serious eye damage/eye irritation",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P264",
+      "P280",
+      "P264+P265"
+    ],
+    "response": [
+      "P302+P352",
+      "P321",
+      "P332+P317",
+      "P362+P364",
+      "P305+P351+P338",
+      "P337+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  },
+  {
+    "id": 112,
+    "code": "H315+H320",
+    "category": [
+      2,
+      "2B"
+    ],
+    "statement": "Causes skin and eye irritation.",
+    "type": "Skin corrosion/irritation; Serious eye damage/eye irritation",
+    "level": null,
+    "pictogram": "GHS07",
+    "signalWord": "Warning",
+    "prevention": [
+      "P264",
+      "P280",
+      "P264+P265"
+    ],
+    "response": [
+      "P302+P352",
+      "P321",
+      "P332+P317",
+      "P362+P364",
+      "P305+P351+P338",
+      "P337+P317"
+    ],
+    "storage": null,
+    "disposal": null
+  }
+]

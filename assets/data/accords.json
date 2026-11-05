@@ -1,0 +1,389 @@
+[
+  {
+    "id": "accord::f7f8d078eae418",
+    "cas": "MIXTURE",
+    "type": "ACCORD",
+    "name": "Test Rose Accord",
+    "dateSaved": "2026-09-23",
+    "items": [
+      {
+        "id": 1,
+        "key": "7ef83613-4973-4e78-88d8-a1921d30b367",
+        "cas": "106-24-1",
+        "name": "Geraniol",
+        "gramsAdded": 15,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      },
+      {
+        "id": 2,
+        "key": "3cb6bcbb-d2bb-423d-9ff4-189daf3306c9",
+        "cas": "60-12-8",
+        "name": "Phenyl Ethyl Alcohol",
+        "gramsAdded": 55,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      },
+      {
+        "id": 3,
+        "key": "5132",
+        "cas": "106-22-9",
+        "name": "Citronellol",
+        "gramsAdded": 5,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      },
+      {
+        "id": 4,
+        "key": "8176fbc5-7c11-4364-abf4-19d2474982c7",
+        "cas": "24720-09-0",
+        "name": "Damascone Alpha",
+        "gramsAdded": 5,
+        "dilution": 10,
+        "dilutant": "ETOH",
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      },
+      {
+        "id": 5,
+        "key": "e5593f95-2846-4cc6-b73e-6c03c136e375",
+        "cas": "16409-43-1",
+        "name": "Rose Oxide",
+        "gramsAdded": 1,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      },
+      {
+        "id": 6,
+        "key": "81743871-9209-4c16-acf6-0341b123a965",
+        "cas": "106-25-2",
+        "name": "Nerol",
+        "gramsAdded": 1,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      },
+      {
+        "id": 7,
+        "key": "cb65c0f8-e753-4222-8a87-e48d65bc63e1",
+        "cas": "78-70-6",
+        "name": "Linalool",
+        "gramsAdded": 3,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      },
+      {
+        "id": 8,
+        "key": "73",
+        "cas": "89-43-0",
+        "name": "Aurantiol",
+        "gramsAdded": 10,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      },
+      {
+        "id": 9,
+        "key": "7c45fbe0-c238-4476-9841-5e415a8b430a",
+        "cas": "8007-75-8",
+        "name": "Bergamot FCF Oil (Sicilian)",
+        "gramsAdded": 5,
+        "dilution": 10,
+        "dilutant": "ETOH",
+        "customDilutant": null,
+        "kind": null,
+        "accordId": null
+      }
+    ],
+    "totalGrams": 100,
+    "totalIngredientGrams": 91,
+    "totalConcentrationPercent": 91,
+    "totalEtohPercent": 9,
+    "totalCost": 18.43153,
+    "costPerGram": 0.1843153,
+    "allergenList": [
+      {
+        "id": 1,
+        "key": "A::106-24-1",
+        "cas": "106-24-1",
+        "name": "Geraniol",
+        "gramsAdded": 15,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 2,
+        "key": "A::106-22-9",
+        "cas": "106-22-9",
+        "name": "Citronellol",
+        "gramsAdded": 5,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 3,
+        "key": "A::78-70-6",
+        "cas": "78-70-6",
+        "name": "Linalool",
+        "gramsAdded": 3.065225,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 4,
+        "key": "A::24720-09-0",
+        "cas": "24720-09-0",
+        "name": "Damascone Alpha",
+        "gramsAdded": 0.5,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 5,
+        "key": "A::138-86-3,5989-27-5,5989-54-8,7705-14-8",
+        "cas": "138-86-3,5989-27-5,5989-54-8,7705-14-8",
+        "name": "Limonene",
+        "gramsAdded": 0.114823,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 6,
+        "key": "A::115-95-7",
+        "cas": "115-95-7",
+        "name": "Linalyl Acetate",
+        "gramsAdded": 0.10491,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 7,
+        "key": "A::80-56-8,7785-70-8,127-91-3,18172-67-3,1330-16-1,7785-26-4,19902-08-0",
+        "cas": "80-56-8,7785-70-8,127-91-3,18172-67-3,1330-16-1,7785-26-4,19902-08-0",
+        "name": "Pinene",
+        "gramsAdded": 0.05875,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 8,
+        "key": "A::99-85-4",
+        "cas": "99-85-4",
+        "name": "Gamma-Terpinene",
+        "gramsAdded": 0.0584695,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 9,
+        "key": "A::586-62-9",
+        "cas": "586-62-9",
+        "name": "Terpinolene",
+        "gramsAdded": 0.0056525,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 10,
+        "key": "A::105-87-3",
+        "cas": "105-87-3",
+        "name": "Geranyl Acetate",
+        "gramsAdded": 0.005361,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 11,
+        "key": "A::87-44-5",
+        "cas": "87-44-5",
+        "name": "Beta-Caryophyllene",
+        "gramsAdded": 0.0053285,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 12,
+        "key": "A::5392-40-5,141-27-5,106-26-3",
+        "cas": "5392-40-5,141-27-5,106-26-3",
+        "name": "Citral",
+        "gramsAdded": 0.004349,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 13,
+        "key": "A::8000-41-7,98-55-5,138-87-4,586-81-2",
+        "cas": "8000-41-7,98-55-5,138-87-4,586-81-2",
+        "name": "Terpineol",
+        "gramsAdded": 0.002269,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 14,
+        "key": "A::99-86-5",
+        "cas": "99-86-5",
+        "name": "Alpha-Terpinene",
+        "gramsAdded": 0.001308,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 15,
+        "key": "A::76-22-2,21368-68-3,464-49-3,464-48-2",
+        "cas": "76-22-2,21368-68-3,464-49-3,464-48-2",
+        "name": "Camphor",
+        "gramsAdded": 0.00013,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      }
+    ],
+    "ifraList": [
+      {
+        "id": 1,
+        "key": "I::60-12-8",
+        "cas": "60-12-8",
+        "name": "Phenyl Ethyl Alcohol",
+        "gramsAdded": 55,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 2,
+        "key": "I::106-24-1",
+        "cas": "106-24-1",
+        "name": "Geraniol",
+        "gramsAdded": 15,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 3,
+        "key": "I::89-43-0",
+        "cas": "89-43-0",
+        "name": "Aurantiol",
+        "gramsAdded": 10,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 4,
+        "key": "I::106-22-9",
+        "cas": "106-22-9",
+        "name": "Citronellol",
+        "gramsAdded": 5,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 5,
+        "key": "I::78-70-6",
+        "cas": "78-70-6",
+        "name": "Linalool",
+        "gramsAdded": 3,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 6,
+        "key": "I::16409-43-1",
+        "cas": "16409-43-1",
+        "name": "Rose Oxide",
+        "gramsAdded": 1,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 7,
+        "key": "I::106-25-2",
+        "cas": "106-25-2",
+        "name": "Nerol",
+        "gramsAdded": 1,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 8,
+        "key": "I::24720-09-0",
+        "cas": "24720-09-0",
+        "name": "Damascone Alpha",
+        "gramsAdded": 0.5,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 9,
+        "key": "I::138-86-3,7705-14-8,5989-27-5,5989-54-8",
+        "cas": "138-86-3,7705-14-8,5989-27-5,5989-54-8",
+        "name": "Limonene",
+        "gramsAdded": 0.114823,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 10,
+        "key": "I::78-70-6,126-90-9,126-91-0",
+        "cas": "78-70-6,126-90-9,126-91-0",
+        "name": "Linalool",
+        "gramsAdded": 0.065225,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      },
+      {
+        "id": 11,
+        "key": "I::5392-40-5,141-27-5,106-26-3",
+        "cas": "5392-40-5,141-27-5,106-26-3",
+        "name": "Citral",
+        "gramsAdded": 0.004349,
+        "dilution": 100,
+        "dilutant": null,
+        "customDilutant": null
+      }
+    ]
+  }
+]

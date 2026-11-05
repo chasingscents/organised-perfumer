@@ -1,0 +1,1016 @@
+[
+  {
+    "id": 0,
+    "code": "P101",
+    "statement": "If medical advice is needed, have product container or label at hand.",
+    "group": "General"
+  },
+  {
+    "id": 1,
+    "code": "P102",
+    "statement": "Keep out of reach of children.",
+    "group": "General"
+  },
+  {
+    "id": 2,
+    "code": "P103",
+    "statement": "Read carefully and follow all instructions.",
+    "group": "General"
+  },
+  {
+    "id": 3,
+    "code": "P201",
+    "statement": "(Obsolete) Obtain special instructions before use.",
+    "group": "Prevention"
+  },
+  {
+    "id": 4,
+    "code": "P202",
+    "statement": "(Obsolete) Do not handle until all safety precautions have been read and understood.",
+    "group": "Prevention"
+  },
+  {
+    "id": 5,
+    "code": "P203",
+    "statement": "Obtain, read and follow all safety instructions before use.",
+    "group": "Prevention"
+  },
+  {
+    "id": 6,
+    "code": "P210",
+    "statement": "Keep away from heat, hot surface, sparks, open flames and other ignition sources. No smoking.",
+    "group": "Prevention"
+  },
+  {
+    "id": 7,
+    "code": "P211",
+    "statement": "Do not spray on an open flame or other ignition source.",
+    "group": "Prevention"
+  },
+  {
+    "id": 8,
+    "code": "P212",
+    "statement": "Avoid heating under confinement or reduction of the desensitized agent.",
+    "group": "Prevention"
+  },
+  {
+    "id": 9,
+    "code": "P220",
+    "statement": "Keep away from clothing and other combustible materials.",
+    "group": "Prevention"
+  },
+  {
+    "id": 10,
+    "code": "P221",
+    "statement": "(Obsolete) Take any precaution to avoid mixing with combustibles/...",
+    "group": "Prevention"
+  },
+  {
+    "id": 11,
+    "code": "P222",
+    "statement": "Do not allow contact with air.",
+    "group": "Prevention"
+  },
+  {
+    "id": 12,
+    "code": "P223",
+    "statement": "Do not allow contact with water.",
+    "group": "Prevention"
+  },
+  {
+    "id": 13,
+    "code": "P230",
+    "statement": "Keep diluted with ...",
+    "group": "Prevention"
+  },
+  {
+    "id": 14,
+    "code": "P231",
+    "statement": "Handle and store contents under inert gas/...",
+    "group": "Prevention"
+  },
+  {
+    "id": 15,
+    "code": "P232",
+    "statement": "Protect from moisture.",
+    "group": "Prevention"
+  },
+  {
+    "id": 16,
+    "code": "P233",
+    "statement": "Keep container tightly closed.",
+    "group": "Prevention"
+  },
+  {
+    "id": 17,
+    "code": "P234",
+    "statement": "Keep only in original container.",
+    "group": "Prevention"
+  },
+  {
+    "id": 18,
+    "code": "P235",
+    "statement": "Keep cool.",
+    "group": "Prevention"
+  },
+  {
+    "id": 19,
+    "code": "P236",
+    "statement": "Keep only in original packaging; Division .. in the transport configuration.",
+    "group": "Prevention"
+  },
+  {
+    "id": 20,
+    "code": "P240",
+    "statement": "Ground/bond container and receiving equipment.",
+    "group": "Prevention"
+  },
+  {
+    "id": 21,
+    "code": "P241",
+    "statement": "Use explosion-proof [electrical/ventilating/lighting/.../] equipment.",
+    "group": "Prevention"
+  },
+  {
+    "id": 22,
+    "code": "P242",
+    "statement": "Use only non-sparking tools.",
+    "group": "Prevention"
+  },
+  {
+    "id": 23,
+    "code": "P243",
+    "statement": "Take precautionary measures against static discharge.",
+    "group": "Prevention"
+  },
+  {
+    "id": 24,
+    "code": "P244",
+    "statement": "Keep valves and fittings free from oil and grease.",
+    "group": "Prevention"
+  },
+  {
+    "id": 25,
+    "code": "P250",
+    "statement": "Do not subject to grinding/shock/friction/...",
+    "group": "Prevention"
+  },
+  {
+    "id": 26,
+    "code": "P251",
+    "statement": "Do not pierce or burn, even after use.",
+    "group": "Prevention"
+  },
+  {
+    "id": 27,
+    "code": "P260",
+    "statement": "Do not breathe dust/fume/gas/mist/vapors/spray.",
+    "group": "Prevention"
+  },
+  {
+    "id": 28,
+    "code": "P261",
+    "statement": "Avoid breathing dust/fume/gas/mist/vapors/spray.",
+    "group": "Prevention"
+  },
+  {
+    "id": 29,
+    "code": "P262",
+    "statement": "Do not get in eyes, on skin, or on clothing.",
+    "group": "Prevention"
+  },
+  {
+    "id": 30,
+    "code": "P263",
+    "statement": "Avoid contact during pregnancy/while nursing.",
+    "group": "Prevention"
+  },
+  {
+    "id": 31,
+    "code": "P264",
+    "statement": "Wash hands [and ...] thoroughly after handling.",
+    "group": "Prevention"
+  },
+  {
+    "id": 32,
+    "code": "P265",
+    "statement": "Do not touch eyes.",
+    "group": "Prevention"
+  },
+  {
+    "id": 33,
+    "code": "P270",
+    "statement": "Do not eat, drink or smoke when using this product.",
+    "group": "Prevention"
+  },
+  {
+    "id": 34,
+    "code": "P271",
+    "statement": "Use only outdoors or in a well-ventilated area.",
+    "group": "Prevention"
+  },
+  {
+    "id": 35,
+    "code": "P272",
+    "statement": "Contaminated work clothing should not be allowed out of the workplace.",
+    "group": "Prevention"
+  },
+  {
+    "id": 36,
+    "code": "P273",
+    "statement": "Avoid release to the environment.",
+    "group": "Prevention"
+  },
+  {
+    "id": 37,
+    "code": "P280",
+    "statement": "Wear protective gloves/protective clothing/eye protection/face protection/hearing protection/...",
+    "group": "Prevention"
+  },
+  {
+    "id": 38,
+    "code": "P281",
+    "statement": "(Obsolete) Use personal protective equipment as required.",
+    "group": "Prevention"
+  },
+  {
+    "id": 39,
+    "code": "P282",
+    "statement": "Wear cold insulating gloves and either face shield or eye protection.",
+    "group": "Prevention"
+  },
+  {
+    "id": 40,
+    "code": "P283",
+    "statement": "Wear fire resistant or flame retardant clothing.",
+    "group": "Prevention"
+  },
+  {
+    "id": 41,
+    "code": "P284",
+    "statement": "[In case of inadequate ventilation] Wear respiratory protection.",
+    "group": "Prevention"
+  },
+  {
+    "id": 42,
+    "code": "P285",
+    "statement": "(Obsolete) In case of inadequate ventilation wear respiratory protection.",
+    "group": "Prevention"
+  },
+  {
+    "id": 43,
+    "code": "P231+P232",
+    "statement": "Handle and store contents under inert gas/... Protect from moisture.",
+    "group": "Prevention"
+  },
+  {
+    "id": 44,
+    "code": "P264+P265",
+    "statement": "Wash hands [and ...] thoroughly after handling. Do not touch eyes.",
+    "group": "Prevention"
+  },
+  {
+    "id": 45,
+    "code": "P235+P410",
+    "statement": "(Obsolete) Keep cool. Protect from sunlight.",
+    "group": "Prevention"
+  },
+  {
+    "id": 46,
+    "code": "P301",
+    "statement": "IF SWALLOWED:",
+    "group": "Response"
+  },
+  {
+    "id": 47,
+    "code": "P302",
+    "statement": "IF ON SKIN:",
+    "group": "Response"
+  },
+  {
+    "id": 48,
+    "code": "P303",
+    "statement": "IF ON SKIN (or hair):",
+    "group": "Response"
+  },
+  {
+    "id": 49,
+    "code": "P304",
+    "statement": "IF INHALED:",
+    "group": "Response"
+  },
+  {
+    "id": 50,
+    "code": "P305",
+    "statement": "IF IN EYES:",
+    "group": "Response"
+  },
+  {
+    "id": 51,
+    "code": "P306",
+    "statement": "IF ON CLOTHING:",
+    "group": "Response"
+  },
+  {
+    "id": 52,
+    "code": "P307",
+    "statement": "(Obsolete) IF exposed:",
+    "group": "Response"
+  },
+  {
+    "id": 53,
+    "code": "P308",
+    "statement": "IF exposed or concerned:",
+    "group": "Response"
+  },
+  {
+    "id": 54,
+    "code": "P309",
+    "statement": "(Obsolete) IF exposed or if you feel unwell.",
+    "group": "Response"
+  },
+  {
+    "id": 55,
+    "code": "P310",
+    "statement": "(Obsolete) Immediately call a POISON CENTER or doctor/physician.",
+    "group": "Response"
+  },
+  {
+    "id": 56,
+    "code": "P311",
+    "statement": "(Obsolete) Call a POISON CENTER or doctor/...",
+    "group": "Response"
+  },
+  {
+    "id": 57,
+    "code": "P312",
+    "statement": "(Obsolete) Call a POISON CENTER or doctor/... if you feel unwell.",
+    "group": "Response"
+  },
+  {
+    "id": 58,
+    "code": "P313",
+    "statement": "(Obsolete) Get medical advice/attention.",
+    "group": "Response"
+  },
+  {
+    "id": 59,
+    "code": "P314",
+    "statement": "(Obsolete) Get medical advice/attention if you feel unwell.",
+    "group": "Response"
+  },
+  {
+    "id": 60,
+    "code": "P315",
+    "statement": "(Obsolete) Get immediate medical advice/attention.",
+    "group": "Response"
+  },
+  {
+    "id": 61,
+    "code": "P316",
+    "statement": "Get emergency medical help immediately.",
+    "group": "Response"
+  },
+  {
+    "id": 62,
+    "code": "P317",
+    "statement": "Get medical help.",
+    "group": "Response"
+  },
+  {
+    "id": 63,
+    "code": "P318",
+    "statement": "If exposed or concerned, get medical advice.",
+    "group": "Response"
+  },
+  {
+    "id": 64,
+    "code": "P319",
+    "statement": "Get medical help if you feel unwell.",
+    "group": "Response"
+  },
+  {
+    "id": 65,
+    "code": "P320",
+    "statement": "Specific treatment is urgent (see ... on this label).",
+    "group": "Response"
+  },
+  {
+    "id": 66,
+    "code": "P321",
+    "statement": "Specific treatment (see information on this label and safety data sheet).",
+    "group": "Response"
+  },
+  {
+    "id": 67,
+    "code": "P322",
+    "statement": "Specific treatment is urgent (see information on the safety data sheet).",
+    "group": "Response"
+  },
+  {
+    "id": 68,
+    "code": "P323",
+    "statement": "Specific measures (see information on the safety data sheet).",
+    "group": "Response"
+  },
+  {
+    "id": 69,
+    "code": "P330",
+    "statement": "Rinse mouth.",
+    "group": "Response"
+  },
+  {
+    "id": 70,
+    "code": "P331",
+    "statement": "Do NOT induce vomiting.",
+    "group": "Response"
+  },
+  {
+    "id": 71,
+    "code": "P332",
+    "statement": "If skin irritation occurs:",
+    "group": "Response"
+  },
+  {
+    "id": 72,
+    "code": "P333",
+    "statement": "If skin irritation or rash occurs:",
+    "group": "Response"
+  },
+  {
+    "id": 73,
+    "code": "P334",
+    "statement": "Immerse in cool water [or wrap in wet bandages].",
+    "group": "Response"
+  },
+  {
+    "id": 74,
+    "code": "P335",
+    "statement": "Brush off loose particles from skin.",
+    "group": "Response"
+  },
+  {
+    "id": 75,
+    "code": "P336",
+    "statement": "Immediately thaw frosted parts with lukewarm water. Do not rub affected area.",
+    "group": "Response"
+  },
+  {
+    "id": 76,
+    "code": "P337",
+    "statement": "If eye irritation persists:",
+    "group": "Response"
+  },
+  {
+    "id": 77,
+    "code": "P338",
+    "statement": "Remove contact lenses, if present and easy to do. Continue rinsing.",
+    "group": "Response"
+  },
+  {
+    "id": 78,
+    "code": "P340",
+    "statement": "Remove person to fresh air and keep comfortable for breathing.",
+    "group": "Response"
+  },
+  {
+    "id": 79,
+    "code": "P341",
+    "statement": "(Obsolete) If breathing is difficult, remove victim to fresh air and keep at rest in a position comfortable for breathing.",
+    "group": "Response"
+  },
+  {
+    "id": 80,
+    "code": "P342",
+    "statement": "If experiencing respiratory symptoms:",
+    "group": "Response"
+  },
+  {
+    "id": 81,
+    "code": "P350",
+    "statement": "(Obsolete) Gently wash with plenty of soap and water.",
+    "group": "Response"
+  },
+  {
+    "id": 82,
+    "code": "P351",
+    "statement": "Rinse cautiously with water for several minutes.",
+    "group": "Response"
+  },
+  {
+    "id": 83,
+    "code": "P352",
+    "statement": "Wash with plenty of water/...",
+    "group": "Response"
+  },
+  {
+    "id": 84,
+    "code": "P353",
+    "statement": "Rinse skin with water [or shower].",
+    "group": "Response"
+  },
+  {
+    "id": 85,
+    "code": "P354",
+    "statement": "Immediately rinse with water for several minutes.",
+    "group": "Response"
+  },
+  {
+    "id": 86,
+    "code": "P360",
+    "statement": "Rinse immediately contaminated clothing and skin with plenty of water before removing clothes.",
+    "group": "Response"
+  },
+  {
+    "id": 87,
+    "code": "P361",
+    "statement": "Take off immediately all contaminated clothing.",
+    "group": "Response"
+  },
+  {
+    "id": 88,
+    "code": "P362",
+    "statement": "Take off contaminated clothing.",
+    "group": "Response"
+  },
+  {
+    "id": 89,
+    "code": "P363",
+    "statement": "Wash contaminated clothing before reuse.",
+    "group": "Response"
+  },
+  {
+    "id": 90,
+    "code": "P364",
+    "statement": "And wash it before reuse.",
+    "group": "Response"
+  },
+  {
+    "id": 91,
+    "code": "P370",
+    "statement": "In case of fire:",
+    "group": "Response"
+  },
+  {
+    "id": 92,
+    "code": "P371",
+    "statement": "In case of major fire and large quantities:",
+    "group": "Response"
+  },
+  {
+    "id": 93,
+    "code": "P372",
+    "statement": "Explosion risk.",
+    "group": "Response"
+  },
+  {
+    "id": 94,
+    "code": "P373",
+    "statement": "DO NOT fight fire when fire reaches explosives.",
+    "group": "Response"
+  },
+  {
+    "id": 95,
+    "code": "P374",
+    "statement": "(Obsolete) Fight fire with normal precautions from a reasonable distance.",
+    "group": "Response"
+  },
+  {
+    "id": 96,
+    "code": "P375",
+    "statement": "Fight fire remotely due to the risk of explosion.",
+    "group": "Response"
+  },
+  {
+    "id": 97,
+    "code": "P376",
+    "statement": "Stop leak if safe to do so.",
+    "group": "Response"
+  },
+  {
+    "id": 98,
+    "code": "P377",
+    "statement": "Leaking gas fire: Do not extinguish, unless leak can be stopped safely.",
+    "group": "Response"
+  },
+  {
+    "id": 99,
+    "code": "P378",
+    "statement": "Use ... to extinguish.",
+    "group": "Response"
+  },
+  {
+    "id": 100,
+    "code": "P380",
+    "statement": "Evacuate area.",
+    "group": "Response"
+  },
+  {
+    "id": 101,
+    "code": "P381",
+    "statement": "In case of leakage, eliminate all ignition sources.",
+    "group": "Response"
+  },
+  {
+    "id": 102,
+    "code": "P390",
+    "statement": "Absorb spillage to prevent material damage.",
+    "group": "Response"
+  },
+  {
+    "id": 103,
+    "code": "P391",
+    "statement": "Collect spillage.",
+    "group": "Response"
+  },
+  {
+    "id": 104,
+    "code": "P301+P310",
+    "statement": "(Obsolete) IF SWALLOWED: Immediately call a POISON CENTER/doctor/...",
+    "group": "Response"
+  },
+  {
+    "id": 105,
+    "code": "P301+P312",
+    "statement": "(Obsolete) IF SWALLOWED: Call a POISON CENTER/doctor/... if you feel unwell.",
+    "group": "Response"
+  },
+  {
+    "id": 106,
+    "code": "P301+P316",
+    "statement": "IF SWALLOWED: Get emergency medical help immediately.",
+    "group": "Response"
+  },
+  {
+    "id": 107,
+    "code": "P301+P317",
+    "statement": "IF SWALLOWED: Get medical help.",
+    "group": "Response"
+  },
+  {
+    "id": 108,
+    "code": "P301+P330+P331",
+    "statement": "IF SWALLOWED: Rinse mouth. Do NOT induce vomiting.",
+    "group": "Response"
+  },
+  {
+    "id": 109,
+    "code": "P302+P317",
+    "statement": "(Obsolete) IF ON SKIN: Get medical help.",
+    "group": "Response"
+  },
+  {
+    "id": 110,
+    "code": "P302+P334",
+    "statement": "IF ON SKIN: Immerse in cool water or wrap in wet bandages.",
+    "group": "Response"
+  },
+  {
+    "id": 111,
+    "code": "P302+P335+P334",
+    "statement": "Brush off loose particles from skin. Immerse in cool water [or wrap in wet bandages].",
+    "group": "Response"
+  },
+  {
+    "id": 112,
+    "code": "P302+P350",
+    "statement": "(Obsolete) IF ON SKIN: Gently wash with plenty of soap and water.",
+    "group": "Response"
+  },
+  {
+    "id": 113,
+    "code": "P302+P352",
+    "statement": "IF ON SKIN: Wash with plenty of water/...",
+    "group": "Response"
+  },
+  {
+    "id": 114,
+    "code": "P302+P361+P354",
+    "statement": "IF ON SKIN: Take off immediately all contaminated clothing. Immediately rinse with water for several minutes.",
+    "group": "Response"
+  },
+  {
+    "id": 115,
+    "code": "P303+P361+P353",
+    "statement": "IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water [or shower].",
+    "group": "Response"
+  },
+  {
+    "id": 116,
+    "code": "P304+P312",
+    "statement": "(Obsolete) IF INHALED: Call a POISON CENTER/doctor/... if you feel unwell.",
+    "group": "Response"
+  },
+  {
+    "id": 117,
+    "code": "P304+P317",
+    "statement": "(Obsolete) IF INHALED: Get medical help.",
+    "group": "Response"
+  },
+  {
+    "id": 118,
+    "code": "P304+P340",
+    "statement": "IF INHALED: Remove person to fresh air and keep comfortable for breathing.",
+    "group": "Response"
+  },
+  {
+    "id": 119,
+    "code": "P304+P341",
+    "statement": "(Obsolete) IF INHALED: If breathing is difficult, remove victim to fresh air and keep at rest in a position comfortable for breathing.",
+    "group": "Response"
+  },
+  {
+    "id": 120,
+    "code": "P305+P351+P338",
+    "statement": "IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses if present and easy to do. Continue rinsing.",
+    "group": "Response"
+  },
+  {
+    "id": 121,
+    "code": "P305+P354+P338",
+    "statement": "IF IN EYES: Immediately rinse with water for several minutes. Remove contact lenses if present and easy to do. Continue rinsing.",
+    "group": "Response"
+  },
+  {
+    "id": 122,
+    "code": "P306+P360",
+    "statement": "IF ON CLOTHING: Rinse immediately contaminated clothing and skin with plenty of water before removing clothes.",
+    "group": "Response"
+  },
+  {
+    "id": 123,
+    "code": "P308+P316",
+    "statement": "IF exposed or concerned: Get emergency medical help immediately.",
+    "group": "Response"
+  },
+  {
+    "id": 124,
+    "code": "P307+P311",
+    "statement": "(Obsolete) IF exposed: Call a POISON CENTER or doctor/physician.",
+    "group": "Response"
+  },
+  {
+    "id": 125,
+    "code": "P308+P311",
+    "statement": "(Obsolete) IF exposed or concerned: Call a POISON CENTER/doctor/...",
+    "group": "Response"
+  },
+  {
+    "id": 126,
+    "code": "P308+P313",
+    "statement": "(Obsolete) IF exposed or concerned: Get medical advice/attention.",
+    "group": "Response"
+  },
+  {
+    "id": 127,
+    "code": "P309+P311",
+    "statement": "(Obsolete) IF exposed or if you feel unwell: Call a POISON CENTER or doctor/physician.",
+    "group": "Response"
+  },
+  {
+    "id": 128,
+    "code": "P332+P313",
+    "statement": "(Obsolete) If skin irritation occurs: Get medical advice/attention.",
+    "group": "Response"
+  },
+  {
+    "id": 129,
+    "code": "P332+P317",
+    "statement": "If skin irritation occurs: Get medical help.",
+    "group": "Response"
+  },
+  {
+    "id": 130,
+    "code": "P333+P317",
+    "statement": "If skin irritation or rash occurs: Get medical help.",
+    "group": "Response"
+  },
+  {
+    "id": 131,
+    "code": "P336+P317",
+    "statement": "Immediately thaw frosted parts with lukewarm water. Do not rub affected area. Get medical help.",
+    "group": "Response"
+  },
+  {
+    "id": 132,
+    "code": "P337+P317",
+    "statement": "If eye irritation persists: Get medical help.",
+    "group": "Response"
+  },
+  {
+    "id": 133,
+    "code": "P342+P316",
+    "statement": "If experiencing respiratory symptoms: Get emergency medical help immediately.",
+    "group": "Response"
+  },
+  {
+    "id": 134,
+    "code": "P333+P313",
+    "statement": "(Obsolete) If skin irritation or rash occurs: Get medical advice/attention.",
+    "group": "Response"
+  },
+  {
+    "id": 135,
+    "code": "P335+P334",
+    "statement": "(Obsolete) Brush off loose particles from skin. Immerse in cool water/wrap in wet bandages.",
+    "group": "Response"
+  },
+  {
+    "id": 136,
+    "code": "P337+P313",
+    "statement": "(Obsolete) If eye irritation persists: Get medical advice/attention.",
+    "group": "Response"
+  },
+  {
+    "id": 137,
+    "code": "P342+P311",
+    "statement": "(Obsolete) If experiencing respiratory symptoms: Call a POISON CENTER/doctor/...",
+    "group": "Response"
+  },
+  {
+    "id": 138,
+    "code": "P361+P364",
+    "statement": "Take off immediately all contaminated clothing and wash it before reuse.",
+    "group": "Response"
+  },
+  {
+    "id": 139,
+    "code": "P362+P364",
+    "statement": "Take off contaminated clothing and wash it before reuse.",
+    "group": "Response"
+  },
+  {
+    "id": 140,
+    "code": "P370+P376",
+    "statement": "In case of fire: Stop leak if safe to do so.",
+    "group": "Response"
+  },
+  {
+    "id": 141,
+    "code": "P370+P378",
+    "statement": "In case of fire: Use ... to extinguish.",
+    "group": "Response"
+  },
+  {
+    "id": 142,
+    "code": "P370+P380",
+    "statement": "(Obsolete) In case of fire: Evacuate area.",
+    "group": "Response"
+  },
+  {
+    "id": 143,
+    "code": "P370+P380+P375",
+    "statement": "In case of fire: Evacuate area. Fight fire remotely due to the risk of explosion.",
+    "group": "Response"
+  },
+  {
+    "id": 144,
+    "code": "P371+P380+P375",
+    "statement": "In case of major fire and large quantities: Evacuate area. Fight fire remotely due to the risk of explosion.",
+    "group": "Response"
+  },
+  {
+    "id": 145,
+    "code": "P370+P372+P380+P373",
+    "statement": "In case of fire: Explosion risk. Evacuate area. DO NOT fight fire when fire reaches explosives.",
+    "group": "Response"
+  },
+  {
+    "id": 146,
+    "code": "P370+P380+P375[+P378]",
+    "statement": "In case of fire: Evacuate area. Fight fire remotely due to the risk of explosion. [Use ... to extinguish].",
+    "group": "Response"
+  },
+  {
+    "id": 147,
+    "code": "P401",
+    "statement": "Store in accordance with ...",
+    "group": "Storage"
+  },
+  {
+    "id": 148,
+    "code": "P402",
+    "statement": "Store in a dry place.",
+    "group": "Storage"
+  },
+  {
+    "id": 149,
+    "code": "P403",
+    "statement": "Store in a well-ventilated place.",
+    "group": "Storage"
+  },
+  {
+    "id": 150,
+    "code": "P404",
+    "statement": "Store in a closed container.",
+    "group": "Storage"
+  },
+  {
+    "id": 151,
+    "code": "P405",
+    "statement": "Store locked up.",
+    "group": "Storage"
+  },
+  {
+    "id": 152,
+    "code": "P406",
+    "statement": "Store in corrosive resistant/... container with a resistant inner liner.",
+    "group": "Storage"
+  },
+  {
+    "id": 153,
+    "code": "P407",
+    "statement": "Maintain air gap between stacks or pallets.",
+    "group": "Storage"
+  },
+  {
+    "id": 154,
+    "code": "P410",
+    "statement": "Protect from sunlight.",
+    "group": "Storage"
+  },
+  {
+    "id": 155,
+    "code": "P411",
+    "statement": "Store at temperatures not exceeding ... °C/... °F.",
+    "group": "Storage"
+  },
+  {
+    "id": 156,
+    "code": "P412",
+    "statement": "Do not expose to temperatures exceeding 50 °C/122 °F.",
+    "group": "Storage"
+  },
+  {
+    "id": 157,
+    "code": "P413",
+    "statement": "Store bulk masses greater than ... kg/... lbs at temperatures not exceeding ... °C/... °F.",
+    "group": "Storage"
+  },
+  {
+    "id": 158,
+    "code": "P420",
+    "statement": "Store separately.",
+    "group": "Storage"
+  },
+  {
+    "id": 159,
+    "code": "P422",
+    "statement": "(Obsolete) Store contents under ...",
+    "group": "Storage"
+  },
+  {
+    "id": 160,
+    "code": "P402+P404",
+    "statement": "Store in a dry place. Store in a closed container.",
+    "group": "Storage"
+  },
+  {
+    "id": 161,
+    "code": "P403+P233",
+    "statement": "Store in a well-ventilated place. Keep container tightly closed.",
+    "group": "Storage"
+  },
+  {
+    "id": 162,
+    "code": "P403+P235",
+    "statement": "Store in a well-ventilated place. Keep cool.",
+    "group": "Storage"
+  },
+  {
+    "id": 163,
+    "code": "P410+P403",
+    "statement": "Protect from sunlight. Store in a well-ventilated place.",
+    "group": "Storage"
+  },
+  {
+    "id": 164,
+    "code": "P410+P412",
+    "statement": "Protect from sunlight. Do not expose to temperatures exceeding 50 °C/122 °F.",
+    "group": "Storage"
+  },
+  {
+    "id": 165,
+    "code": "P411+P235",
+    "statement": "(Obsolete) Store at temperatures not exceeding ... °C/... °F. Keep cool.",
+    "group": "Storage"
+  },
+  {
+    "id": 166,
+    "code": "P501",
+    "statement": "Dispose of contents/container to ...",
+    "group": "Disposal"
+  },
+  {
+    "id": 167,
+    "code": "P502",
+    "statement": "Refer to manufacturer or supplier for information on recovery or recycling.",
+    "group": "Disposal"
+  },
+  {
+    "id": 168,
+    "code": "P503",
+    "statement": "Refer to manufacturer/supplier... for information on disposal/recovery/recycling.",
+    "group": "Disposal"
+  }
+]

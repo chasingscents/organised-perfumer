@@ -1,0 +1,37 @@
+[
+  {
+    "code": "ETOH",
+    "label": "ETOH",
+    "ingredientKey": "1000",
+    "ingredientCas": "64-17-5",
+    "ingredientName": "Ethanol 100 SGF4"
+  },
+  {
+    "code": "DPG",
+    "label": "DPG",
+    "ingredientKey": "1001",
+    "ingredientCas": "25265-71-8",
+    "ingredientName": "DPG"
+  },
+  {
+    "code": "IPM",
+    "label": "IPM",
+    "ingredientKey": "1002",
+    "ingredientCas": "110-27-0",
+    "ingredientName": "IPM"
+  },
+  {
+    "code": "BB",
+    "label": "BB",
+    "ingredientKey": "5114",
+    "ingredientCas": "120-51-4",
+    "ingredientName": "Benzyl Benzoate"
+  },
+  {
+    "code": "TEC",
+    "label": "TEC",
+    "ingredientKey": "5207",
+    "ingredientCas": "77-93-0",
+    "ingredientName": "Triethyl Citrate, Natural"
+  }
+]

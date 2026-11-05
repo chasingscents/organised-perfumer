@@ -1,0 +1,800 @@
+[
+  {
+    "id": 0,
+    "name": "3-Propylidenephthalide",
+    "inci": "3-Propylidenephthalide",
+    "cas": [
+      "17369-59-4"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "6-Methyl Coumarin",
+    "inci": "6-Methyl Coumarin",
+    "cas": [
+      "92-48-8"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Acetyl Cedrene",
+    "inci": "Acetyl Cedrene",
+    "cas": [
+      "32388-55-9"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alcohol Denat.",
+    "inci": "Alcohol Denat.",
+    "cas": [
+      "64-17-5"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Alpha-Isomethyl Ionone",
+    "inci": "Alpha-Isomethyl Ionone",
+    "cas": [
+      "127-51-5"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Alpha-Terpinene",
+    "inci": "Alpha-Terpinene",
+    "cas": [
+      "99-86-5"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Amyl Cinnamal",
+    "inci": "Amyl Cinnamal",
+    "cas": [
+      "122-40-7"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Amyl Salicylate",
+    "inci": "Amyl Salicylate",
+    "cas": [
+      "2050-08-0"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Amylcinnamyl Alcohol",
+    "inci": "Amylcinnamyl Alcohol",
+    "cas": [
+      "101-85-9"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Anethole",
+    "inci": "Anethole",
+    "cas": [
+      "104-46-1",
+      "4180-23-8",
+      "50770-19-9",
+      "25679-28-1"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Anise Alcohol",
+    "inci": "Anise Alcohol",
+    "cas": [
+      "105-13-5"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Aqua",
+    "inci": "Aqua",
+    "cas": [
+      "7732-18-5"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Benzaldehyde",
+    "inci": "Benzaldehyde",
+    "cas": [
+      "100-52-7"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Benzyl Alcohol",
+    "inci": "Benzyl Alcohol",
+    "cas": [
+      "100-51-6"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Benzyl Benzoate",
+    "inci": "Benzyl Benzoate",
+    "cas": [
+      "120-51-4"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Benzyl Cinnamate",
+    "inci": "Benzyl Cinnamate",
+    "cas": [
+      "103-41-3"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Benzyl Salicylate",
+    "inci": "Benzyl Salicylate",
+    "cas": [
+      "118-58-1"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Bergamot Peel Oil",
+    "inci": "Citrus Aurantium Bergamia Peel Oil",
+    "cas": [
+      "8007-75-8",
+      "89957-91-5",
+      "68648-33-9",
+      "85049-52-1"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Beta-Caryophyllene",
+    "inci": "Beta-Caryophyllene",
+    "cas": [
+      "87-44-5"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Butylphenyl Methylpropional (Lilial)",
+    "inci": "Butylphenyl Methylpropional",
+    "cas": [
+      "80-54-6"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Camphor",
+    "inci": "Camphor",
+    "cas": [
+      "76-22-2",
+      "21368-68-3",
+      "464-49-3",
+      "464-48-2"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Cananga (Ylang-Ylang) Oil/Extract",
+    "inci": "Cananga Odorata Oil/Extract",
+    "cas": [
+      "83863-30-3",
+      "8006-81-3",
+      "68606-83-7",
+      "93686-30-7"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Carvone",
+    "inci": "Carvone",
+    "cas": [
+      "99-49-0",
+      "6485-40-1",
+      "2244-16-8"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Cassia Leaf Oil",
+    "inci": "Cinnamomum Cassia Leaf Oil",
+    "cas": [
+      "8007-80-5",
+      "84961-46-6"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Cedarwood Atlas Oil/Extract",
+    "inci": "Cedrus Atlantica Oil/Extract",
+    "cas": [
+      "92201-55-3",
+      "8023-85-6"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Cinnamal",
+    "inci": "Cinnamal",
+    "cas": [
+      "104-55-2"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Cinnamon Bark Oil",
+    "inci": "Cinnamomum Zeylanicum Bark Oil",
+    "cas": [
+      "8015-91-6",
+      "84649-98-9"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Cinnamyl Alcohol",
+    "inci": "Cinnamyl Alcohol",
+    "cas": [
+      "104-54-1"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Citral",
+    "inci": "Citral",
+    "cas": [
+      "5392-40-5",
+      "141-27-5",
+      "106-26-3"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Citronellal",
+    "inci": "Citronellal",
+    "cas": [
+      "106-23-0"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Citronellol",
+    "inci": "Citronellol",
+    "cas": [
+      "106-22-9",
+      "26489-01-0",
+      "1117-61-9",
+      "7540-51-4"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Clove Oil",
+    "inci": "Eugenia Caryophyllus Oil",
+    "cas": [
+      "8000-34-8",
+      "8015-97-2",
+      "84961-50-2"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Coumarin",
+    "inci": "Coumarin",
+    "cas": [
+      "91-64-5"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Dimethyl Phenethyl Acetate",
+    "inci": "Dimethyl Phenethyl Acetate",
+    "cas": [
+      "151-05-3"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Eucalyptus Oil",
+    "inci": "Eucalyptus Globulus Oil",
+    "cas": [
+      "97926-40-4",
+      "8000-48-4"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Eugenol",
+    "inci": "Eugenol",
+    "cas": [
+      "97-53-0"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Eugenyl Acetate",
+    "inci": "Eugenyl Acetate",
+    "cas": [
+      "93-28-7"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Farnesol",
+    "inci": "Farnesol",
+    "cas": [
+      "4602-84-0"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Geraniol",
+    "inci": "Geraniol",
+    "cas": [
+      "106-24-1"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Geranium Oil",
+    "inci": "Pelargonium Graveolens Oil / Pelargonium Graveolens Flower Oil / Pelargonium Graveolens Leaf Oil",
+    "cas": [
+      "90082-51-2",
+      "8000-46-2"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Geranyl Acetate",
+    "inci": "Geranyl Acetate",
+    "cas": [
+      "105-87-3"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Hexadecanolactone",
+    "inci": "Hexadecanolactone",
+    "cas": [
+      "109-29-5"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Hexamethylindanopyran",
+    "inci": "Hexamethylindanopyran",
+    "cas": [
+      "1222-05-5"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Hexyl Cinnamal",
+    "inci": "Hexyl Cinnamal",
+    "cas": [
+      "101-86-0"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Hydroxycitronellal",
+    "inci": "Hydroxycitronellal",
+    "cas": [
+      "107-75-5"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde (HICC/Lyral)",
+    "inci": "Hydroxyisohexyl 3-Cyclohexene Carboxaldehyde",
+    "cas": [
+      "31906-04-4"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Isoeugenol",
+    "inci": "Isoeugenol",
+    "cas": [
+      "97-54-1",
+      "5932-68-3",
+      "5912-86-7"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Isoeugenyl Acetate",
+    "inci": "Isoeugenyl Acetate",
+    "cas": [
+      "93-29-8"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Jasmine Oil/Extract",
+    "inci": "Jasminum Grandiflorum Flower Extract / Jasminum Officinale Oil / Jasminum Sambac Flower Extract",
+    "cas": [
+      "84776-64-7",
+      "90045-94-6",
+      "8022-96-6",
+      "8024-43-9",
+      "91770-14-8"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Juniperus Virginiana Oil",
+    "inci": "Juniperus Virginiana Oil",
+    "cas": [
+      "8000-27-9",
+      "85085-41-2"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Laurel Leaf Oil",
+    "inci": "Laurus Nobilis Leaf Oil",
+    "cas": [
+      "8002-41-3",
+      "8007-48-5",
+      "84603-73-6"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Lavender/Lavandin Oil or Extract",
+    "inci": "Lavandula Oil/Extract",
+    "cas": [
+      "8000-28-0",
+      "8022-15-9",
+      "84776-65-8",
+      "90063-37-9",
+      "91722-69-9",
+      "92623-76-2",
+      "93455-96-0",
+      "93455-97-1"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Lemon Peel Oil",
+    "inci": "Citrus Limon Peel Oil",
+    "cas": [
+      "84929-31-7",
+      "8008-56-8"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Lemongrass Oil",
+    "inci": "Cymbopogon Citratus Leaf Oil / Cymbopogon Flexuosus Oil",
+    "cas": [
+      "8007-02-1",
+      "89998-16-3",
+      "91844-92-7"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Limonene",
+    "inci": "Limonene",
+    "cas": [
+      "138-86-3",
+      "5989-27-5",
+      "5989-54-8",
+      "7705-14-8"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Linalool",
+    "inci": "Linalool",
+    "cas": [
+      "78-70-6"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Linalyl Acetate",
+    "inci": "Linalyl Acetate",
+    "cas": [
+      "115-95-7"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Lippia Citriodora Absolute (Verbena Absolute)",
+    "inci": "Lippia Citriodora Absolute",
+    "cas": [
+      "8024-12-2",
+      "85116-63-8"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Menthol",
+    "inci": "Menthol",
+    "cas": [
+      "89-78-1",
+      "1490-04-6",
+      "2216-51-5",
+      "15356-60-2"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Methyl 2-Octynoate",
+    "inci": "Methyl 2-Octynoate",
+    "cas": [
+      "111-12-6"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Methyl Salicylate",
+    "inci": "Methyl Salicylate",
+    "cas": [
+      "119-36-8"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Myroxylon Pereirae Oil/Extract (Peru Balsam)",
+    "inci": "Myroxylon Pereirae Oil/Extract",
+    "cas": [
+      "8007-00-9"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Narcissus Extract",
+    "inci": "Narcissus Extract",
+    "cas": [
+      "90064-26-9",
+      "68917-12-4",
+      "90064-27-0",
+      "90064-25-8"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Neroli/Orange Flower Oil",
+    "inci": "Citrus Aurantium Flower Oil",
+    "cas": [
+      "72968-50-4",
+      "8028-48-6",
+      "8016-38-4"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Oakmoss Extract",
+    "inci": "Evernia Prunastri Extract",
+    "cas": [
+      "90028-68-5",
+      "9000-50-4"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Orange Peel Oil",
+    "inci": "Citrus Aurantium Peel Oil",
+    "cas": [
+      "68916-04-1",
+      "72968-50-4",
+      "97766-30-8",
+      "8028-48-6",
+      "8008-57-9"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Patchouli Oil",
+    "inci": "Pogostemon Cablin Oil / Pogostemon Cablin Leaf Oil",
+    "cas": [
+      "8014-09-3",
+      "84238-39-1"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Peppermint Oil",
+    "inci": "Mentha Piperita Oil",
+    "cas": [
+      "8006-90-4",
+      "84082-70-2"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Pinene",
+    "inci": "Pinene",
+    "cas": [
+      "80-56-8",
+      "7785-70-8",
+      "127-91-3",
+      "18172-67-3",
+      "1330-16-1",
+      "7785-26-4",
+      "19902-08-0"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Pinus Mugo Oil/Extract",
+    "inci": "Pinus Mugo Leaf Oil / Pinus Mugo Twig Leaf Extract / Pinus Mugo Twig Oil",
+    "cas": [
+      "90082-72-7"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Pinus Pumila Oil/Extract",
+    "inci": "Pinus Pumila Needle Extract / Pinus Pumila Twig Leaf Extract / Pinus Pumila Twig Leaf Oil",
+    "cas": [
+      "97676-05-6"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Rose Flower Oil/Extract",
+    "inci": "Rose Flower Oil/Extract",
+    "cas": [
+      "8007-01-0",
+      "90106-38-0",
+      "93334-48-6",
+      "84696-47-9",
+      "84604-12-6",
+      "84604-13-7",
+      "92347-25-6"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Rose Ketones",
+    "inci": "Rose Ketones",
+    "cas": [
+      "43052-87-5",
+      "23726-94-5",
+      "24720-09-0",
+      "23696-85-7",
+      "57378-68-4",
+      "71048-82-3",
+      "23726-92-3",
+      "23726-91-2",
+      "23726-93-4",
+      "59739-63-8",
+      "35044-68-9",
+      "35087-49-1",
+      "39872-57-6",
+      "70266-48-7",
+      "33673-71-1"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Salicylaldehyde",
+    "inci": "Salicylaldehyde",
+    "cas": [
+      "90-02-8"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Sandalwood Oil",
+    "inci": "Santalum Album Oil",
+    "cas": [
+      "8006-87-9",
+      "84787-70-2"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Santalol",
+    "inci": "Santalol",
+    "cas": [
+      "11031-45-1",
+      "115-71-9",
+      "77-42-9"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Sclareol",
+    "inci": "Sclareol",
+    "cas": [
+      "515-03-7"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Spearmint Oil",
+    "inci": "Mentha Viridis Leaf Oil",
+    "cas": [
+      "8008-79-5",
+      "84696-51-5"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Terpineol",
+    "inci": "Terpineol",
+    "cas": [
+      "8000-41-7",
+      "98-55-5",
+      "138-87-4",
+      "586-81-2"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Terpinolene",
+    "inci": "Terpinolene",
+    "cas": [
+      "586-62-9"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Tetramethyl Acetyloctahydronaphthalenes",
+    "inci": "Tetramethyl Acetyloctahydronaphthalenes",
+    "cas": [
+      "54464-57-2",
+      "54464-59-4",
+      "68155-66-8",
+      "68155-67-9"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Treemoss Extract",
+    "inci": "Evernia Furfuracea Extract",
+    "cas": [
+      "90028-67-4"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Trimethylbenzenepropanol",
+    "inci": "Trimethylbenzenepropanol",
+    "cas": [
+      "103694-68-4"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Trimethylcyclopentenyl Methylisopentenol",
+    "inci": "Trimethylcyclopentenyl Methylisopentenol",
+    "cas": [
+      "67801-20-1"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Turpentine",
+    "inci": "Turpentine",
+    "cas": [
+      "9005-90-7",
+      "8006-64-2",
+      "8052-14-0"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Vanillin",
+    "inci": "Vanillin",
+    "cas": [
+      "121-33-5"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Gamma-Terpinene",
+    "inci": "Gamma-Terpinene",
+    "cas": [
+      "99-85-4"
+    ]
+  }
+]
